@@ -1,0 +1,17 @@
+html{
+    background-color: black;
+}
+
+img{
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+}
+
+.row{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    align-items: flex-start;
+}
